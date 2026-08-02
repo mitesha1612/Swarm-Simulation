@@ -23,8 +23,9 @@ __pycache__/
 *.tmp
 *.bak
 
-# Keep the demo video visible in the repository README
+# Keep the demo videos visible in the repository README
 !simulation\ video.mp4
+!simulation\ video\ \(2\).mp4
 
 # OS files
 .DS_Store
