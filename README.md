@@ -6,13 +6,11 @@ The system exists at two levels: a **ROS 2 + Gazebo simulation** (Antbots) for d
 
 ## 🎥 Demo Video
 
-[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch%20Demo-Video%20Player-blue?style=for-the-badge&logo=github)](https://github.com/mitesha1612/Swarm-Simulation/blob/main/simulation%20video%20%282%29.mp4)
-
-**[📥 Download Video](https://github.com/mitesha1612/Swarm-Simulation/raw/main/simulation%20video%20%282%29.mp4)** | **[View in Repository](https://github.com/mitesha1612/Swarm-Simulation/blob/main/simulation%20video%20%282%29.mp4)**
+**[📥 Download Video from Releases](https://github.com/mitesha1612/Swarm-Simulation/releases/download/v1.0/simulation%20video%20%282%29.mp4)** | **[View in Repository](https://github.com/mitesha1612/Swarm-Simulation/blob/main/simulation%20video%20%282%29.mp4)**
 
 The simulation shows three autonomous robots navigating an arena, detecting a green target, and converging cooperatively using the Lévy-flight search pattern with obstacle avoidance.
 
-> If the video link has issues, you can download it directly from the repository files above.
+> Download the video from the Releases page above if you want to watch the full demo offline.
 
 ---
 
