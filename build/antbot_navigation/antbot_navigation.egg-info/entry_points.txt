@@ -1,4 +1,0 @@
-[console_scripts]
-swarm_gui_server = antbot_navigation.swarm_gui_server:main
-swarm_logic = antbot_navigation.swarm_logic:main
-

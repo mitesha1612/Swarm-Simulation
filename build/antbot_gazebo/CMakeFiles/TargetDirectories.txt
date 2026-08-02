@@ -1,9 +1,0 @@
-/home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_gazebo/CMakeFiles/uninstall.dir
-/home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_gazebo/CMakeFiles/antbot_gazebo_uninstall.dir
-/home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_gazebo/CMakeFiles/test.dir
-/home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_gazebo/CMakeFiles/edit_cache.dir
-/home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_gazebo/CMakeFiles/rebuild_cache.dir
-/home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_gazebo/CMakeFiles/list_install_components.dir
-/home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_gazebo/CMakeFiles/install.dir
-/home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_gazebo/CMakeFiles/install/local.dir
-/home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_gazebo/CMakeFiles/install/strip.dir

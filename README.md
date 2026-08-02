@@ -4,6 +4,13 @@ A swarm of three autonomous robots that navigate an obstacle-filled arena, detec
 
 The system exists at two levels: a **ROS 2 + Gazebo simulation** (Antbots) for development and testing, and a **physical deployment** on ESP32-VROOM hardware.
 
+## 🎥 Demo Video
+
+<video controls width="100%">
+  <source src="simulation%20video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 ## 📌 Project Overview
