@@ -6,10 +6,9 @@ The system exists at two levels: a **ROS 2 + Gazebo simulation** (Antbots) for d
 
 ## 🎥 Demo Video
 
-<video controls width="100%">
-  <source src="simulation%20video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the simulation demo](https://img.shields.io/badge/Download-Simulation_Video.mp4-blue?style=for-the-badge)](https://github.com/mitesha1612/Swarm-Simulation/raw/main/simulation%20video.mp4)
+
+Or view directly: [simulation video.mp4](https://github.com/mitesha1612/Swarm-Simulation/raw/main/simulation%20video.mp4)
 
 ---
 
