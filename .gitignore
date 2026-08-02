@@ -1,0 +1,28 @@
+# Build artifacts
+build/
+install/
+log/
+
+# Python cache and packaging
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Media and temporary files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
