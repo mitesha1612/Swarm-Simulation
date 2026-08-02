@@ -1,0 +1,42 @@
+running egg_info
+creating ../../build/antbot_navigation/antbot_navigation.egg-info
+writing ../../build/antbot_navigation/antbot_navigation.egg-info/PKG-INFO
+writing dependency_links to ../../build/antbot_navigation/antbot_navigation.egg-info/dependency_links.txt
+writing entry points to ../../build/antbot_navigation/antbot_navigation.egg-info/entry_points.txt
+writing requirements to ../../build/antbot_navigation/antbot_navigation.egg-info/requires.txt
+writing top-level names to ../../build/antbot_navigation/antbot_navigation.egg-info/top_level.txt
+writing manifest file '../../build/antbot_navigation/antbot_navigation.egg-info/SOURCES.txt'
+reading manifest file '../../build/antbot_navigation/antbot_navigation.egg-info/SOURCES.txt'
+writing manifest file '../../build/antbot_navigation/antbot_navigation.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_navigation/build
+creating /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_navigation/build/lib
+creating /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_navigation/build/lib/antbot_navigation
+copying antbot_navigation/swarm_logic.py -> /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_navigation/build/lib/antbot_navigation
+copying antbot_navigation/__init__.py -> /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_navigation/build/lib/antbot_navigation
+copying antbot_navigation/swarm_gui_server.py -> /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_navigation/build/lib/antbot_navigation
+running install
+running install_lib
+creating /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/lib/python3.10/site-packages/antbot_navigation
+copying /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_navigation/build/lib/antbot_navigation/swarm_logic.py -> /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/lib/python3.10/site-packages/antbot_navigation
+copying /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_navigation/build/lib/antbot_navigation/__init__.py -> /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/lib/python3.10/site-packages/antbot_navigation
+copying /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_navigation/build/lib/antbot_navigation/swarm_gui_server.py -> /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/lib/python3.10/site-packages/antbot_navigation
+byte-compiling /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/lib/python3.10/site-packages/antbot_navigation/swarm_logic.py to swarm_logic.cpython-310.pyc
+byte-compiling /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/lib/python3.10/site-packages/antbot_navigation/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/lib/python3.10/site-packages/antbot_navigation/swarm_gui_server.py to swarm_gui_server.cpython-310.pyc
+running install_data
+creating /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/share/ament_index
+creating /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/share/ament_index/resource_index
+creating /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/share/ament_index/resource_index/packages
+copying resource/antbot_navigation -> /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/share/ament_index/resource_index/packages
+copying package.xml -> /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/share/antbot_navigation
+creating /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/share/antbot_navigation/launch
+copying launch/start_swarm_logic.launch.py -> /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/share/antbot_navigation/launch
+copying launch/swarm.launch.py -> /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/share/antbot_navigation/launch
+running install_egg_info
+Copying ../../build/antbot_navigation/antbot_navigation.egg-info to /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/lib/python3.10/site-packages/antbot_navigation-0.0.0-py3.10.egg-info
+running install_scripts
+Installing swarm_gui_server script to /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/lib/antbot_navigation
+Installing swarm_logic script to /home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/install/antbot_navigation/lib/antbot_navigation
+writing list of installed files to '/home/tyashu/Swarm-System-Gazebo-simulation-main/Antbots/build/antbot_navigation/install.log'

@@ -1,0 +1,4 @@
+source;share/antbot_description/local_setup.bash
+source;share/antbot_description/local_setup.dsv
+source;share/antbot_description/local_setup.sh
+source;share/antbot_description/local_setup.zsh
