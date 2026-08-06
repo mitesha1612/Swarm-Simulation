@@ -8,6 +8,9 @@ The system exists at two levels: a **ROS 2 + Gazebo simulation** (Antbots) for d
 
 **[📥 Download from Releases](https://github.com/mitesha1612/Swarm-Simulation/releases/tag/v1.0)**
 
+https://github.com/user-attachments/assets/e0895427-3ede-4d22-bcee-1d871233d9eb
+
+
 The simulation shows three autonomous robots navigating an arena, detecting a green target, and converging cooperatively using the Lévy-flight search pattern with obstacle avoidance.
 
 > Go to the Releases page above to download the simulation demo video.
